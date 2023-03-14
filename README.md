@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FastAPI, data processing algorithms, SOLID**
 
-- 💬 Ask me about **Django, REST APIs, Docker, OOP**
+- 💬 Ask me about **Django, REST APIs, Docker, OOP**,  i am happy to help
 
 - 📫 How to reach me **vasilyvig@gmail.com**
 
