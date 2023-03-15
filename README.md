@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vasilyvig@gmail.com**
 
-- 📄 Know about my experiences [https://copper-ethernet-cc9.notion.site/Python-Developer-10fc227ebc7c479b96b2f4c2b0d2fb08](https://copper-ethernet-cc9.notion.site/Python-Developer-10fc227ebc7c479b96b2f4c2b0d2fb08)
+- 📄 Know about my experiences [resume](https://copper-ethernet-cc9.notion.site/Python-Developer-10fc227ebc7c479b96b2f4c2b0d2fb08)
 
 - ⚡ Fun fact **I think im funny**
 
