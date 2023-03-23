@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/vglnsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vglnsk" height="30" width="40" /></a>
 <a href="https://instagram.com/vglnsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vglnsk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vglnsk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vglnsk" height="30" width="40" /></a>
 <a href="https://t.me/vglnsk" target="_blank"><img align="center" src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=blue" alt="vglnsk" height="30"/></a>
 </p>
 
