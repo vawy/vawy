@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasiliy</h1>
-<h3 align="center">Python backend developer</h3>
+<h1 align="center">Hi 👋, I'm Vasiliy - Python backend developer</h1>
 
 - 🌱 I’m currently learning **FastAPI, data processing algorithms, SOLID**
 
