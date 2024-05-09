@@ -6,7 +6,7 @@
 
 - 💬 I’m currently learning **FastAPI, data processing algorithms, SOLID, Kafka**
 
-- 📫 How to reach me **vglnsk@gmail.com**
+- 📫 **vglnsk@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p>
