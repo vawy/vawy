@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vasiliy - Python backend developer</h1>
 
-- 🌱 I’m currently learning **FastAPI, data processing algorithms, SOLID**
+- 🌱 Stack: **FastAPI, Django, SqlAlchemy, Pydantic, Postgresql data processing algorithms, SOLID**
 
-- 💬 Ask me about **Django, REST APIs, Docker, OOP**,  i am happy to help
+- 💬 I’m currently learning **FastAPI, data processing algorithms, SOLID**
 
-- 📫 How to reach me **vasilyvig@gmail.com**
+- 📫 How to reach me **vglnsk@gmail.com**
 
 - 📄 Know about my experiences [resume](https://copper-ethernet-cc9.notion.site/Python-Developer-10fc227ebc7c479b96b2f4c2b0d2fb08)
 
