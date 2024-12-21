@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasiliy - Python backend developer</h1>
 
-- 🌱 Stack: **FastAPI, Django, SqlAlchemy, Pydantic, Postgresql, SQL**
+- 🌱 Stack: **FastAPI, SqlAlchemy, Pydantic, Postgresql, SQL, asyncio, Kafka, Airflow, Django, DRF, Docker**
 
 - ⚡ Tools: **Grafana, Postman, GitLab, Linux**
 
